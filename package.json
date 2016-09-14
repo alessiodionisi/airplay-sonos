@@ -1,0 +1,30 @@
+{
+  "name": "airplay-sonos",
+  "version": "1.0.0",
+  "description": "AirPlay server for Sonos devices",
+  "main": "index.js",
+  "scripts": {
+    "start": "DEBUG=* node index.js"
+  },
+  "keywords": [
+    "airplay",
+    "sonos"
+  ],
+  "author": "Alessio Dionisi <me@alessiodionisi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "nicercast": "^0.1.0",
+    "nodetunes": "^0.3.0",
+    "sonos": "^0.12.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessiodionisi/airplay-sonos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alessiodionisi/airplay-sonos/issues"
+  },
+  "homepage": "https://github.com/alessiodionisi/airplay-sonos#readme"
+}
