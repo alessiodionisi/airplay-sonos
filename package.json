@@ -15,7 +15,7 @@
   "dependencies": {
     "debug": "^2.2.0",
     "nicercast": "^0.1.0",
-    "nodetunes": "^0.3.0",
+    "nodetunes": "git://github.com/stephen/nodetunes.git#816ff4c",
     "sonos": "^0.12.1"
   },
   "devDependencies": {},
