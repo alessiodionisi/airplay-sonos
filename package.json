@@ -1,10 +1,14 @@
 {
   "name": "airplay-sonos",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "AirPlay server for Sonos devices",
   "main": "index.js",
   "scripts": {
     "start": "DEBUG=* node index.js"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "airplay-sonos": "index.js"
   },
   "keywords": [
     "airplay",

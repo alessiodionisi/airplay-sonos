@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const debug = require('debug')('airplay-sonos')
 const sonos = require('sonos')
 
