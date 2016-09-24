@@ -1,3 +1,5 @@
+"use strict"
+
 const debug = require('debug')('airplay-sonos:device')
 const NodeTunes = require('nodetunes')
 const Nicercast = require('nicercast')
