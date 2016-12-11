@@ -1,6 +1,7 @@
 # AirPlay Sonos
 
 [![NPMV](https://img.shields.io/npm/v/airplay-sonos.svg?style=flat-square)](https://npmjs.org/package/airplay-sonos)
+[![Travis](https://img.shields.io/travis/alessiodionisi/airplay-sonos.svg?style=flat-square)](https://travis-ci.org/alessiodionisi/airplay-sonos)
 [![David](https://img.shields.io/david/alessiodionisi/airplay-sonos.svg?style=flat-square)](https://david-dm.org/alessiodionisi/airplay-sonos)
 [![NPML](https://img.shields.io/npm/l/airplay-sonos.svg?style=flat-square)](https://github.com/alessiodionisi/airplay-sonos/blob/master/LICENSE)
 [![NPMD](https://img.shields.io/npm/dt/airplay-sonos.svg?style=flat-square)](https://npmjs.org/package/airplay-sonos)
